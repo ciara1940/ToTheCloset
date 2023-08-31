@@ -2,6 +2,10 @@
 
 Welcome to To The Closet – Your gateway to sustainable luxury fashion. Discover a world where elegance meets eco-consciousness. Our platform offers exquisite clothing rentals, allowing you to indulge in luxury while reducing your carbon footprint. Join us in redefining fashion with a sustainable twist and make a positive impact on both style and the environment.
 
+## Demo Video
+
+[Click here to watch demo video](https://www.youtube.com/watch?v=mlw1beXC-eY&ab_channel=TIANCHULIN_)
+
 ## Features
 
 - Browse a curated selection of luxury clothing items.
